@@ -1,7 +1,23 @@
-📝 Read Me: How to Use the Tier List Maker
-Upload Images: Click the "Upload" button to add images for your tier list.
-Drag & Drop: Move the images into the tiers that best fit your ranking.
-Customize Tiers: Rename or add tiers to match your ranking system.
-Download: Once done, click the "Download" button to save your custom tier list.
-Share: Share your creation with friends or the gaming community!
-Need inspiration? Explore other tier lists on https://megatierlist.com/tier-list-maker/
+# Tier List Maker  
+
+A simple Tier List Maker built with HTML, CSS, and JavaScript. Create personalized tier lists with ease!  
+
+## Features  
+- Customizable tiers and items  
+- Drag-and-drop functionality  
+- Easy to use — no setup required!  
+
+## How to Use  
+1. Clone or download the repository.  
+2. Open `index.html` in your browser.  
+3. Start creating your own tier lists!  
+
+## Live Demo  
+Check out the live version here: [Mega Tier List] (https://megatierlist.com/)  
+
+## Contributing  
+Feel free to fork this repository and submit pull requests with improvements or new features.  
+
+## License  
+This project is licensed under the MIT License.  
+
